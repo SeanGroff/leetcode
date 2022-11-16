@@ -1,0 +1,24 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "Repo to store leetcode problems, solutions and notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanGroff/leetcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanGroff/leetcode/issues"
+  },
+  "homepage": "https://github.com/SeanGroff/leetcode#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "vite": "^3.2.4",
+    "vitest": "^0.25.2"
+  }
+}
